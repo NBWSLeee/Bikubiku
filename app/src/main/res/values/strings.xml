@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Bikubiku</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_follows">Follows</string>
+    <string name="nav_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_follows">Follows</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_about">About</string>
 </resources>

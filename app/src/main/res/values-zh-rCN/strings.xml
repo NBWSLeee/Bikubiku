@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">哔酷哔酷</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_follows">关注</string>
+    <string name="nav_settings">设置</string>
+    <string name="title_home">首页</string>
+    <string name="title_follows">关注</string>
+    <string name="title_settings">设置</string>
+    <string name="title_about">关于</string>
+</resources>

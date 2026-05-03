@@ -30,11 +30,20 @@
 - Ensure code is readable, maintainable, and modular.
 - Apply proper MVVM/MVI architecture patterns as appropriate.
 - Keep UI logic separate from business logic.
+- Remember to use "Super components" instead of "Window components".
 
 6. **AI Instructions**
 - Always refer back to the reference project for **UI components and styling**.
 - Always adhere to Android best practices for **file placement, class design, and performance**.
 - Avoid copying unnecessary boilerplate or legacy code from the reference project.
+
+7. **Libraries Selection**
+- ui: libs.miuix.ui
+- preference: libs.miuix.preference
+- icons: libs.miuix.icons
+- g2 rounded corners: libs.miuix.shapes
+- blur effect: libs.miuix.blur
+- navigation: libs.miuix.navigation3.ui
 
 ---
 

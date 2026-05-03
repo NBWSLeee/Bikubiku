@@ -5,9 +5,7 @@ plugins {
 
 android {
     namespace = "cn.corremoon.bikubiku"
-    compileSdk {
-        version = release(37)
-    }
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "cn.corremoon.bikubiku"
@@ -46,7 +44,6 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
-    implementation(libs.androidx.datastore.preferences)
 
     implementation(libs.miuix.ui)
     implementation(libs.miuix.preference)
